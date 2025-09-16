@@ -1,0 +1,15 @@
+git add *
+to adding a file in to unstaging location
+git commit -m "message of the commit"
+to adding a file into staging locatin
+git push -u origin <branch name>
+for pushing a file into central
+git remote add origin repo uri       --one time activity
+it is using to connecting with local repo to central repo
+
+one time activity configuration commands
+git config --global user.email "your github emailid"
+git conig --global user.name "github username"
+
+git init
+to creating a folder as repository in local
