@@ -1,2 +1,3 @@
 git revert --continue
 git revert --skip
+git commit -m "new message added"
