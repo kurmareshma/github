@@ -1,0 +1,2 @@
+git revert --continue
+git revert --skip
